@@ -1,0 +1,12 @@
+TileMap
+TextureRect
+Sprite
+YSort
+Node2D
+Node
+CollisionShape2D
+StaticBody2D
+KinematicBody2D
+AnimatedSprite
+Area2D
+AnimationPlayer

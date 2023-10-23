@@ -1,0 +1,47 @@
+679959e7917290c4d1380dafd36febcc
+::res://::1698080720
+Area2D.gd::GDScript::1696276862::0::1::::<>Area2D<>::res://
+Bat.png::StreamTexture::1696275722::1696275722::1::::<><>::
+default_env.tres::Environment::1697596618::0::1::::<><>::
+Ecena1.tscn::PackedScene::1697596618::0::1::::<><>::res://Action RPG Resources/Player.tscn<>res://Action RPG Resources/World/GrassBackground.png<>res://Action RPG Resources/World/StaticBody2D.tscn<>res://Action RPG Resources/World/DirtTileset.png<>res://Action RPG Resources/World/CliffTileset.png
+icon.png::StreamTexture::1696271760::1696271766::1::::<><>::
+KinematicBody2D.gd::GDScript::1696285547::0::1::::<>KinematicBody2D<>::
+Node2D.tscn::PackedScene::1696272539::0::1::::<><>::
+sprite.png::StreamTexture::1696271849::1696271850::1::::<><>::
+::res://Action RPG Resources/::1696278254
+Player.tscn::PackedScene::1696278254::0::1::::<><>::res://KinematicBody2D.gd<>res://sprite.png
+::res://Action RPG Resources/Effects/::1696275894
+EnemyDeathEffect.png::StreamTexture::1696275892::1696275894::1::::<><>::
+GrassEffect.png::StreamTexture::1696275892::1696275893::1::::<><>::
+HitEffect.png::StreamTexture::1696275892::1696275893::1::::<><>::
+::res://Action RPG Resources/Enemies/::1696275893
+Bat.png::StreamTexture::1696275892::1696275893::1::::<><>::
+::res://Action RPG Resources/Music and Sounds/::1696275893
+EnemyDie.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+Evade.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+Hit.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+Hurt.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+Menu Move.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+Menu Select.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+Music.mp3::AudioStreamMP3::1696275892::1696275893::1::::<><>::
+Pause.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+Swipe.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+Unpause.wav::AudioStreamSample::1696275892::1696275893::1::::<><>::
+::res://Action RPG Resources/Player/::1696275893
+Player.png::StreamTexture::1696275892::1696275893::1::::<><>::
+::res://Action RPG Resources/Shadows/::1696275893
+LargeShadow.png::StreamTexture::1696275892::1696275893::1::::<><>::
+MediumShadow.png::StreamTexture::1696275892::1696275893::1::::<><>::
+SmallShadow.png::StreamTexture::1696275892::1696275893::1::::<><>::
+::res://Action RPG Resources/UI/::1696275893
+HeartUIEmpty.png::StreamTexture::1696275892::1696275893::1::::<><>::
+HeartUIFull.png::StreamTexture::1696275892::1696275893::1::::<><>::
+::res://Action RPG Resources/World/::1696278271
+Bush.png::StreamTexture::1696275892::1696275893::1::::<><>::
+CliffTileset.png::StreamTexture::1696275892::1696275892::1::::<><>::
+DirtTileset.png::StreamTexture::1696275892::1696275892::1::::<><>::
+Grass.png::StreamTexture::1696275892::1696275892::1::::<><>::
+GrassBackground.png::StreamTexture::1696275892::1696278161::1::::<><>::
+Level2.tscn::PackedScene::1696278271::0::1::::<><>::
+StaticBody2D.tscn::PackedScene::1696278254::0::1::::<><>::res://Action RPG Resources/World/Bush.png
+Tree.png::StreamTexture::1696275892::1696275892::1::::<><>::
